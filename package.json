@@ -78,7 +78,7 @@
 		"netlify-plugin-cache-folder": "0.0.8",
 		"node-fetch": "^3.2.10",
 		"nth-check": "^2.1.1",
-		"sass": "^1.54.8",
+		"sass": "^1.68.0",
 		"semver-regex": "^4.0.5",
 		"sharp": "^0.31.3",
 		"through2": "^4.0.2",
