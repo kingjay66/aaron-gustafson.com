@@ -32,7 +32,7 @@
 		"@11ty/eleventy": "^3.0.0",
 		"@11ty/eleventy-img": "^3.0.0",
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
-		"@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
+		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.1",
 		"@jlengstorf/get-share-image": "^0.8.0",
 		"@manustays/eleventy-plugin-codepen-iframe": "^2.0.1",
 		"@sherby/eleventy-plugin-files-minifier": "^1.1.1",
