@@ -29,8 +29,8 @@
 		"gulp-imagemin": "gulp-imagemin 3.x requires ESM and will require major work to overhaul"
 	},
 	"dependencies": {
-		"@11ty/eleventy": "^3.0.0",
-		"@11ty/eleventy-img": "^3.0.0",
+		"@11ty/eleventy": "^3.1.0",
+		"@11ty/eleventy-img": "^6.0.0",
 		"@11ty/eleventy-plugin-rss": "^1.2.0",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
 		"@jlengstorf/get-share-image": "^0.8.0",
@@ -42,7 +42,7 @@
 		"concurrently": "^7.6.0",
 		"css-what": "^6.1.0",
 		"dotenv": "^16.0.2",
-		"eleventy-plugin-embed-everything": "^1.14.1",
+		"eleventy-plugin-embed-everything": "^1.21.0",
 		"eleventy-plugin-images-responsiver": "^2.0.0",
 		"eleventy-plugin-reading-time": "0.0.1",
 		"eleventy-plugin-seo": "^0.5.2",
@@ -50,7 +50,7 @@
 		"faunadb": "^4.6.0",
 		"front-matter": "^4.0.2",
 		"glob-parent": "~> 6.0.2",
-		"gulp": "^4.0.2",
+		"gulp": "^5.0.0",
 		"gulp-autoprefixer": "^8.0.0",
 		"gulp-clean-css": "^4.3.0",
 		"gulp-cli": "2.3.0",
